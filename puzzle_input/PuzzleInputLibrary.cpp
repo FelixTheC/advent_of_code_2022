@@ -1,13 +1,9 @@
 //
-// Created by felix on 04.12.22.
+// Created by felix on 05.12.22.
 //
 
-#ifndef PUZZLE_INPUT_INPUT_HPP
-#define PUZZLE_INPUT_INPUT_HPP
+#include "PuzzleInputLibrary.hpp"
 
-#include <string_view>
-#include <vector>
-#include <fstream>
 
 namespace puzzle
 {
@@ -33,5 +29,3 @@ namespace puzzle
         return lines;
     }
 }
-
-#endif //PUZZLE_INPUT_INPUT_HPP
