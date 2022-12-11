@@ -30,5 +30,8 @@
 *.exe
 *.out
 *.app
-/day_1/.idea/
-/day_1/cmake-build-debug/
+/*/.idea/
+/*/cmake-build-debug/
+/*/cmake-build-testing/
+/*/cmake-build-release/
+
